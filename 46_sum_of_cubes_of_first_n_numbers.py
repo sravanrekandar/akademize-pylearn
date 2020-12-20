@@ -1,0 +1,1 @@
+"""46_sum_of_cubes_of_first_n_numbers.py"""
